@@ -8,7 +8,7 @@ An Android application project develop with kotlin that enable allows users to:
 ## Development
 The CoinRanking application uses [Jetpack Compose](https://developer.android.com/compose) as the UI toolkit for Android development. 
 It follows the MVVM (Model-View-ViewModel) design pattern and employs [Kotlin Flow](https://developer.android.com/kotlin/flow) for state management. 
-All data is sourced from the [CoinBase API](https://www.coinbase.com/developer-platform/products/exchange-api).
+All data is sourced from the [Coin Ranking API](https://developers.coinranking.com/api/documentation).
 
 ## Dependencies
 1. Retrofit (API Integration)
